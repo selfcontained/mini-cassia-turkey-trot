@@ -1,0 +1,25 @@
+{>layout/}
+
+{<main}
+
+	{>images image1="turkey-hug" image2="people-bleachers" image3="people-green-hats" image4="startline-snow" image5="people-bleachers" image6="stretching" /}
+
+	<div class="row">
+
+		<div class="panel panel-default">
+			<div class="panel-heading"><h2>Contact Us</h2></div>
+
+			<div class="panel-body">
+
+                <p>For more information on the Mini-Cassia Turkey Trot, please contact:</p>
+
+				<p><strong>Race Director:</strong> <em>Tosha Stapelman</em><br><strong>Phone:</strong> <em>720-635-0004</em><br><strong>Email:</strong>  <em><a href="mailto:tosha@minicassiaturkeytrot.com">tosha@minicassiaturkeytrot.com</a></em></p>
+
+				<hr>
+				<p><strong>West End Fire Protection District</strong><br><strong>Fire Chief:</strong> <em>Randy Sutton</em><br><strong>Phone:</strong> <em>208-438-4511</em><br><strong>Email:</strong> <em><a href="mailto:westend@pmt.org">westend@pmt.org</a></em></p>
+
+			</div>
+		</div>
+	</div>
+
+{/main}

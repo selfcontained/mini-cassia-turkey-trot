@@ -1,0 +1,23 @@
+{>layout/}
+
+{<main}
+
+	{>images image1="turkey-hug" image2="people-bleachers" image3="people-green-hats" image4="startline-snow" image5="people-bleachers" image6="stretching" /}
+
+	<div class="row">
+
+		<div class="panel panel-default">
+			<div class="panel-heading"><h2>Visit West End</h2></div>
+
+			<div class="panel-body">
+
+	                <p><img src="/images/west-end.jpg" alt=""></p>
+
+					<p>West End Fire &amp; Rescue is a community-based volunteer fire department serving Minidoka County.  The mission of West End is to preserve and protect life and properties from fire.  We also strive to be an asset to the community, aiding in public safety and education programs and to assist other emergency services under mutual agreement.</p>
+
+					<p>The Turkey Trot is a wonderful event celebrating children and families and promoting good health and fellowship. We are excited to be involved with a new tradition to bring together members of our community and their families!</p>
+			</div>
+		</div>
+	</div>
+
+{/main}

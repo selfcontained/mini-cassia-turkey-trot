@@ -1,0 +1,34 @@
+<div class="navbar navbar-inverse" id="navbar">
+
+	<div class="navbar-header">
+		<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+		</button>
+		<img src="/images/turkey-logo.png" class="logo pull-left">
+		<a class="navbar-brand" href="/">Mini-Cassia Turkey Trot</a>
+	</div>
+
+	<div class="collapse navbar-collapse">
+		<ul class="hidden-xs nav navbar-nav pull-right">
+			<li><a href="/registration.html">registration</a></li>
+			<li><a href="/travel.html">travel</a></li>
+			<li><a href="/volunteers.html">volunteers</a></li>
+			<li><a href="/contact.html">contact</a></li>
+			<li><a href="/faq.html">faq</a></li>
+			<li><a href="/visit.html">visit</a></li>
+			<li><a href="/sponsors.html">sponsors</a></li>
+		</ul>
+		<ul class="visible-xs nav navbar-nav">
+			<li><a href="/registration.html">registration</a></li>
+			<li><a href="/travel.html">travel</a></li>
+			<li><a href="/volunteers.html">volunteers</a></li>
+			<li><a href="/contact.html">contact</a></li>
+			<li><a href="/faq.html">faq</a></li>
+			<li><a href="/visit.html">visit</a></li>
+			<li><a href="/sponsors.html">sponsors</a></li>
+		</ul>
+	</div><!--/.nav-collapse -->
+
+</div>

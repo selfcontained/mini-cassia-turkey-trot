@@ -1,0 +1,72 @@
+{>layout/}
+
+{<main}
+
+	{>images image1="people-running" image2="people-smiling" image3="people-talking" image4="startline-snow" image5="turkey-hug" image6="stretching" /}
+
+	<div class="row">
+
+		<div class="panel panel-default">
+			<div class="panel-heading"><h2>Registration</h2></div>
+
+			<div class="panel-body">
+		        <h3>EARLY REGISTRATION</h3>
+
+				<p><em>Now through November 2nd</em></p>
+
+				<ul>
+					<li>Mail in registration form and race fees</li>
+					<li>Walk in to Hurst Chiropractic Center</li>
+					<li><a href="https://www.raceit.com/Register/?event=22861">Register Online</a></li>
+					<li><a href="/2013-turkey-trot-registration.pdf">Download Mail-In Form</a></li>
+				</ul>
+				<hr>
+
+				<h3>Normal Registration</h3>
+
+				<p><em>November 3rd - November 20th</em></p>
+
+				<p><strong>REGISTRATION on Nov. 20 ENDS AT 5:00 PM</strong></p>
+
+				<ul>
+					<li>Walk in to Hurst Chiropractic Center</li>
+					<li><a href="https://www.raceit.com/Register/?event=22861">Register Online Here</a></li>
+					<li><a href="/2013-turkey-trot-registration.pdf">Download Mail-In Form</a></li>
+				</ul>
+
+				<hr>
+
+				<h3>Race Day Registration</h3>
+
+				<p>*November 22nd</p>
+
+				<ul>
+					<li>West Minico Middle School - 8am</li>
+				</ul>
+
+				<hr>
+
+				<h3>Mail-In Form</h3>
+
+				<p>If you prefer to mail in your registration instead of <a href="https://www.raceit.com/Register/?event=22861">registering online</a>, <a href="/2013-turkey-trot-registration.pdf">download this form</a>, fill it out, and please mail it to:</p>
+
+				<p>
+					Mini-Cassia Turkey Trot<br>
+					799&nbsp;W 200&nbsp;N<br>
+					Paul, ID 83347
+				</p>
+
+				<hr>
+
+				<p>
+					*Dog/Stroller Policy:
+					All dogs and strollers are strongly recommended to line up at the back of the pack.  Please keep all dogs to a maximum 3 foot leash.
+				</p>
+
+				<p>
+					**All Trot Tots must have a separate and complete registration form in order to receive a T-shirt.   Tots registered by November 2nd may choose their shirt size.  Tots registering after November 2nd will receive a youth small T-shirt.
+				</p>
+			</div>
+		</div>
+	</div>
+{/main}

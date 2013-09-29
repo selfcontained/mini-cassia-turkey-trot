@@ -1,0 +1,27 @@
+<div class="row image-row">
+
+	<div class="col-sm-4 col-md-2">
+		<img src="/images/peeps/{image1}.jpg" class="thumbnail">
+	</div>
+
+	<div class="col-sm-4 col-md-2">
+		<img src="/images/peeps/{image2}.jpg" class="thumbnail">
+	</div>
+
+	<div class="col-sm-4 col-md-2">
+		<img src="/images/peeps/{image3}.jpg" class="thumbnail">
+	</div>
+
+	<div class="col-sm-4 col-md-2">
+		<img src="/images/peeps/{image4}.jpg" class="thumbnail">
+	</div>
+
+	<div class="col-sm-4 col-md-2">
+		<img src="/images/peeps/{image5}.jpg" class="thumbnail">
+	</div>
+
+	<div class="col-sm-4 col-md-2">
+		<img src="/images/peeps/{image6}.jpg" class="thumbnail">
+	</div>
+
+</div>

@@ -1,0 +1,80 @@
+{>layout/}
+
+{<main}
+
+	{>images image1="turkey-hug" image2="people-bleachers" image3="people-green-hats" image4="startline-snow" image5="people-bleachers" image6="stretching" /}
+
+	<div class="row">
+
+		<div class="panel panel-default">
+			<div class="panel-heading"><h2>FAQ</h2></div>
+
+			<div class="panel-body">
+
+                <h3>Q:  How do I register for the Turkey Trot?</h3>
+
+				<p><em>A: There are a few different ways to register:</em></p>
+
+				<ul><li>You can register in person  at Hurst Chiropractic until November 20th.  Hurst Chiropractic is located at 1246 Oakley Avenue in Burley.</li>
+				<li>You can <a href="https://www.raceit.com/Register/?event=22861">register on-line here</a></li>
+				<li>You can get on our mailing list by emailing tosha@minicassiaturkeytrot.com and we'll send you a form.</li>
+				<li>You can <a href="/2013-turkey-trot-registration.pdf">print off a registration form here</a> 2012 Registration Form and mail it and race fees in to us.
+				Mail-in registration must be  received  NO LATER THAN November 2nd!</li>
+				<li>You can also register race day at West Minico Middle School from 8-8:30 am.  Early arrival ensures you won't miss the race start.</li>
+				</ul><h3>Q: Is the "Tot Trot" a separate event or distance?</h3>
+
+				<p><em>A: No, the Tot Trot is a reduced fee for your youngsters to "officially" participate with their family and receive their own special Trot shirt.  Great family traditions include their Tots.</em></p>
+
+				<h3>Q: Can I walk the 3.1 miles?</h3>
+
+				<p><em>A: Yes, we have lots of walkers. We ask walkers to start at the back of the pack.</em></p>
+
+				<h3>Q:   Can I bring my dog?</h3>
+
+				<p><em>A: Friendly dogs on leashes are welcome.  Owners maintain responsibility for their pets.  *Please see Dog/Stroller Policy at bottom of page.</em></p>
+
+				<h3>Q:   Is rollerblading or cycling allowed?</h3>
+
+				<p><em>A: As they travel at a higher speed, for the safety of others, rollerblades and bicycles are not allowed in the Mini-Cassia Turkey Trot.</em></p>
+
+				<h3>Q:   Where do I pick up my T-shirt?</h3>
+
+				<p><em>A: Packet pick-up (T-shirt included in packet) will be Wednesday, November 21st at West End Fire and Rescue from 3-6p.  We STRONGLY encourage you to pick your packets up at this time, however, if you are not able to pick them up on Wednesday, packets will also be available on race day at West Minico Middle School from 8-8:30a.</em></p>
+
+				<h3>Q: Can I write one check for all participants?</h3>
+
+				<p><em>A: Yes.  We need a separate, signed registration form for each participant, but one check can be sent in with all of the forms.</em></p>
+
+				<h3>Q: Is there assistance available if I can't do the whole course?</h3>
+
+				<p><em>A: Yes, we have paramedics, police officers and firemen patrolling the course.  If you need assistance, just ask a volunteer or an officer for help.  We also have a water stop located on the course.</em></p>
+
+				<h3>Q: Are baby strollers allowed?</h3>
+
+				<p><em>A: Absolutely. We ask strollers to line up at the back of the pack.  Don't forget to register your child as a Trot Tot so they can have an official race shirt - Great family photo opportunity!  *Please see Dog/Stroller Policy at bottom of page.</em></p>
+
+				<h3>Q: Are there concessions available at the Turkey Trot?</h3>
+
+				<p><em>A: The Mini-Cassia Turkey Trot will provide water during the race and light refreshments after the race for our participants at no charge.</em></p>
+
+				<h3>Q: What if it rains or snows?  Will you still have the Turkey Trot?</h3>
+
+				<p><em>A: No matter what the weather, the Trot will go on!</em></p>
+
+				<h3>Q: What happens to the proceeds from the Mini-Cassia Turkey Trot?</h3>
+
+				<p><em>A: Proceeds from the Mini-Cassia Turkey Trot benefit the West End Fire and Rescue; a local volunteer fire department serving Minidoka County.</em></p>
+
+				<h3>Q: Where do I park when I get to the Turkey Trot?</h3>
+
+				<p><em>A: There is parking in the West Minico Middle School parking lot.  Overflow parking is also available across the street at West End Fire &amp; Rescue.  PLEASE DO NOT BLOCK THE EMERGENCY VEHICLE BAYS!!!</em></p>
+
+				<h3>Q: What if I can't pick up my T-shirt and packet Wednesday, November 21st?</h3>
+
+				<p><em>A: Because things get very busy on race morning, we STRONGLY recommend that you pick up your packet the day before.  However, if you are unable to, a last minute packet pick-up will be available race day morning.  Picking up your packet on Wednesday will help to minimize congestion for race day registration and will help ensure that everyone can be at the starting line on time.</em></p>
+
+			</div>
+		</div>
+	</div>
+
+{/main}

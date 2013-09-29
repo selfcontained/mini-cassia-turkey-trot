@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Brad Harris</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<link rel="shortcut icon" type="image/x-icon" href="http://www.gravatar.com/avatar/c20763ec853bb1d2eb3e8a08cc5a28b9?s=16">
+		<link rel="apple-touch-icon" type="image/x-icon" href="http://www.gravatar.com/avatar/c20763ec853bb1d2eb3e8a08cc5a28b9?s=16">
+		<link rel="apple-touch-icon" sizes="72x72" type="image/x-icon" href="http://www.gravatar.com/avatar/c20763ec853bb1d2eb3e8a08cc5a28b9?s=72">
+		<link rel="apple-touch-icon" sizes="114x114" type="image/x-icon" href="http://www.gravatar.com/avatar/c20763ec853bb1d2eb3e8a08cc5a28b9?s=114">
+
+		<!-- Bootstrap -->
+		<link href="/css/bootstrap.css" rel="stylesheet" media="screen">
+		<link href="/css/mini-cassia.css" rel="stylesheet" media="screen">
+
+		<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+		<!--[if lt IE 9]>
+			<script src="../../assets/js/html5shiv.js"></script>
+			<script src="../../assets/js/respond.min.js"></script>
+		<![endif]-->
+	</head>
+	<body>
+
+		<div class="container">
+
+			{>navbar /}
+
+			{+main /}
+
+		</div>
+		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+		<script src="//code.jquery.com/jquery.js"></script>
+		<!-- Include all compiled plugins (below), or include individual files as needed -->
+		<script src="/js/bootstrap.min.js"></script>
+	</body>
+</html>

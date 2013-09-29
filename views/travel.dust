@@ -1,0 +1,47 @@
+{>layout/}
+
+{<main}
+
+	{>images image1="race-cars" image2="guy-running" image3="turkey-hug" image4="startline-snow" image5="people-bleachers" image6="people-green-hats" /}
+
+	<div class="row">
+
+		<div class="panel panel-default">
+			<div class="panel-heading"><h2>Travel Info</h2></div>
+
+			<div class="panel-body">
+
+				<h3>getting to the trot is easy!</h3>
+
+				<p>The Mini-Cassia Turkey Trot is held in the <em>city of Paul</em> and begins at the <strong>West Minico Middle School</strong>.  Parking is available in the school lot.</p>
+
+				<ul>
+					<li>Check out the <a href="http://weather.yahoo.com/united-states/idaho/paul-2469296/">local weather</a> in Paul, Idaho.</li>
+					<li><a href="http://maps.google.com/maps?f=d&amp;hl=en&amp;geocode=&amp;time=&amp;date=&amp;ttype=&amp;saddr=&amp;daddr=42.597347,-113.783609&amp;mra=mi&amp;mrsp=0&amp;sz=17&amp;sll=42.597576,-113.783501&amp;sspn=0.00526,0.009978&amp;ie=UTF8&amp;t=h&amp;z=17&amp;om=1">View a map</a> of the race location.</li>
+				</ul>
+
+				<p>We welcome participants from all over the world!</p>
+
+				<hr>
+
+				<h3>Logding</h3>
+
+				<p>Please stay or have your holiday guest stay at the Fairfield Inn &amp; Suites Burley.</p>
+
+				<p><a href="http://www.marriott.com/hotels/travel/twffi-fairfield-inn-and-suites-burley/"><img src="/images/fairfield.png" width="200" style="text-align:center"></a></p>
+
+				<p>This award winning hotel located in the heart of scenic Magic Valley is situated to provide it’s guests with comfort and a great location.  Guest rooms are spacious  and come with free continental breakfast, waffles, Jimmy Dean breakfast sandwiches, cereal and fresh fruits.  Other ammenities include a well-lit work desk, two phones and data ports, free cable TV with HBO, in-room hair dryer, iron and ironing board, and electrical outlet at desk level for easy recharging.</p>
+
+				<p>Make reservations <a href="http://www.marriott.com/hotels/travel/twffi-fairfield-inn-and-suites-burley/">online</a> or calling <strong>1-800-228-2800</strong> in the USA and Canada.</p>
+
+				<h4>Fairfield Inn &amp; Suites Burley</h4>
+
+				<p>230&nbsp;W. 7th Street North<br>
+				Burley, Idaho 83318 USA<br>
+				Phone:  1-208-677-5000<br>
+				Fax:  1-208-677-5004</p>
+			</div>
+		</div>
+	</div>
+
+{/main}

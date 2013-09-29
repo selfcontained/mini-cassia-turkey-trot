@@ -1,0 +1,153 @@
+{>layout/}
+
+{<main}
+
+	{>images image1="turkey-hug" image2="people-bleachers" image3="people-green-hats" image4="startline-snow" image5="people-bleachers" image6="stretching" /}
+
+	<div class="row">
+
+		<div class="panel panel-default">
+			<div class="panel-heading"><h2>Sponsors</h2></div>
+
+			<div class="panel-body">
+
+                <p class="lead">Please visit our 2012 sponsors listed below:</p>
+
+				<div class="well">
+					<h4>The Mini-Cassia Turkey Trot is presented by</h4>
+					<div class="row image-row">
+
+						<div class="col-sm-6 col-md-6">
+							<a href="http://www.agri-service.com/" class="thumbnail">
+								<img src="/images/sponsors/agri.gif">
+							</a>
+						</div>
+
+						<div class="col-sm-6 col-md-6">
+							<a href="http://masseyferguson.com/" class="thumbnail">
+								<img src="/images/sponsors/masseyferguson.jpg">
+							</a>
+						</div>
+
+					</div>
+				</div>
+				<div class="well">
+
+					<h4>Silver Sponsors <span class="badge">4</span></h4>
+					<div class="row image-row">
+
+						<div class="col-sm-3 col-md-3">
+							<a href="http://www.bonanzamotors.com/" class="thumbnail">
+								<img src="/images/sponsors/silver/bonanza-motors.jpg">
+							</a>
+						</div>
+
+						<div class="col-sm-3 col-md-3">
+							<a href="http://www.kloepfer.com/" class="thumbnail">
+								<img src="/images/sponsors/silver/kloepfer.jpg">
+							</a>
+						</div>
+
+						<div class="col-sm-3 col-md-3">
+							<a href="http://www.dotfoods.com/home" class="thumbnail">
+								<img src="/images/sponsors/silver/dot-foods.jpg">
+							</a>
+						</div>
+
+						<div class="col-sm-3 col-md-3">
+							<img src="/images/sponsors/silver/agri-source.jpg" class="thumbnail">
+						</div>
+
+					</div>
+				</div>
+
+				<div class="well">
+
+					<h4>Bronze Sponsors <span class="badge">12</span></h4>
+					<div class="row image-row">
+
+						<div class="col-sm-3 col-md-3">
+							<img src="/images/sponsors/bronze/childs-world.jpg" class="thumbnail">
+						</div>
+
+						<div class="col-sm-3 col-md-3">
+							<a href="https://www.dlevans.com/index.html" class="thumbnail">
+								<img src="/images/sponsors/bronze/dl-evans.jpg">
+							</a>
+						</div>
+
+						<div class="col-sm-3 col-md-3">
+							<a href="http://www.marriott.com/hotels/travel/twffi-fairfield-inn-and-suites-burley/" class="thumbnail">
+								<img src="/images/sponsors/bronze/fairfield.png">
+							</a>
+						</div>
+
+						<div class="col-sm-3 col-md-3">
+							<img src="/images/sponsors/bronze/healthyprogression.jpg" class="thumbnail">
+						</div>
+
+					</div>
+
+					<div class="row image-row">
+
+						<div class="col-sm-3 col-md-3">
+							<a href="http://www.tylerdc.com/" class="thumbnail">
+								<img src="/images/sponsors/bronze/hurst.jpg">
+							</a>
+						</div>
+
+						<div class="col-sm-3 col-md-3">
+							<a href="http://www.idahorunningcompany.com/" class="thumbnail">
+								<img src="/images/sponsors/bronze/idaho-running.jpg">
+							</a>
+						</div>
+
+						<div class="col-sm-3 col-md-3">
+							<a href="http://www.idahowatersports.com/" class="thumbnail">
+								<img src="/images/sponsors/bronze/idaho-water-sports.jpg">
+							</a>
+						</div>
+
+						<div class="col-sm-3 col-md-3">
+							<a href="http://intermountainhealthcare.org/hospitals/cassia/Pages/home.aspx" class="thumbnail">
+								<img src="/images/sponsors/bronze/intermountain-med.jpg">
+							</a>
+						</div>
+
+					</div>
+
+					<div class="row image-row">
+
+						<div class="col-sm-3 col-md-3">
+							<a href="http://lesschwab.com/" class="thumbnail">
+								<img src="/images/sponsors/bronze/les-schwab.jpg">
+							</a>
+						</div>
+
+						<div class="col-sm-3 col-md-3">
+							<a href="http://www.minidokamemorial.com/" class="thumbnail">
+								<img src="/images/sponsors/bronze/minidoka.jpg">
+							</a>
+						</div>
+
+						<div class="col-sm-3 col-md-3">
+							<img src="/images/sponsors/bronze/ryans.jpg" class="thumbnail">
+						</div>
+
+						<div class="col-sm-3 col-md-3">
+							<a href="https://www.zionsbank.com/" class="thumbnail">
+								<img src="/images/sponsors/bronze/zions.jpg">
+							</a>
+						</div>
+
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</div>
+
+
+
+
+{/main}
