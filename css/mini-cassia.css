@@ -9,6 +9,9 @@ body {
 .navbar-header img.logo {
 	height:50px;
 }
+.navbar-brand {
+	padding-left: 0px;
+}
 
 .jumbotron {
 	position: relative;
