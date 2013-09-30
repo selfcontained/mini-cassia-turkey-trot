@@ -23,7 +23,12 @@
 		</div>
 
 		<div class="col-md-4" id="images-right">
-			<img src="/images/peeps/race-cars.jpg" class="thumbnail img-rounded">
+			<div class="well">
+				<p class="lead">
+					<a href="http://www.facebook.com/pages/Mini-Cassia-Turkey-Trot/109343622455193"><i class="icon-facebook-sign icon-large"></i></a> <a href="http://www.facebook.com/pages/Mini-Cassia-Turkey-Trot/109343622455193">Follow us on Facebook</a>
+				</p>
+			</div>
+			<img src="/images/peeps/race-cars.jpg" class="thumbnail">
 			<img src="/images/peeps/startline-snow.jpg" class="thumbnail img-rounded">
 			<img src="/images/peeps/people-green-hats.jpg" class="thumbnail img-rounded" width="250">
 		</div>
