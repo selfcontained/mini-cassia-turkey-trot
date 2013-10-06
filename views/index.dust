@@ -1,18 +1,25 @@
 {>layout/}
 
 {<main}
-	<div class="jumbotron">
-		<img src="/images/turkey-logo.png" width="150" class="pull-left">
-		<h1>Welcome 2013 Trotters</h1>
-		<p class="lead">run, walk, waddle or trot</p>
-		<a class="btn btn-lg btn-success" href="/registration.html">Register Now &raquo;</a>
-		<a href="http://www.flickr.com/photos/kenlund/1117587057" class="attribution pull-right" target="_blank">photo by Ken Lund</a>
+	<div class="row home-main">
+		<div class="col-md-8">
+			<img src="/images/2013-logo.png" class="main-logo">
+		</div>
+
+		<div class="col-md-4 well text-center">
+			<img src="/images/race/09.jpg" class="img-circle img-thumbnail">
+
+			<p class="text-center">
+				<a class="btn btn-lg btn-success" href="/registration.html">Register Now &raquo;</a>
+			</p>
+
+		</div>
 	</div>
 
 	<div class="row">
 		<div class="col-md-8 well">
 			<p class="lead">
-				The 2013 Mini-Cassia Turkey Trot is our 7th annual race. This 5k fun run/walk is a family centered event that is guaranteed to be one of your family's favorite traditions. We support strong bodies, strong families and a strong community and we want you to join us because this race is for everyone!
+				The 2013 Mini-Cassia Turkey Trot is our 8th annual race. This 5k fun run/walk is a family centered event that is guaranteed to be one of your family's favorite traditions. We support strong bodies, strong families and a strong community and we want you to join us because this race is for everyone!
 			</p>
 			<p class="lead">
 				In addition to many fun door prizes, first, second and third place medals are awarded to both men and women finishers in the mid-range age category. Additionally, we have opened up our kids category this year to children 12 and under with first, second and third place medals awarded. And, after many requests, we have finally decided to add a masters category this year as well! Medals will be given to the top three finishers for men and women over 40. So, don't use your age as an excuse any more... get out there and start training!
@@ -22,15 +29,12 @@
 			</p>
 		</div>
 
-		<div class="col-md-4" id="images-right">
-			<div class="well">
-				<p class="lead">
-					<a href="http://www.facebook.com/pages/Mini-Cassia-Turkey-Trot/109343622455193"><i class="icon-facebook-sign icon-large"></i></a> <a href="http://www.facebook.com/pages/Mini-Cassia-Turkey-Trot/109343622455193">Follow us on Facebook</a>
-				</p>
-			</div>
-			<img src="/images/peeps/race-cars.jpg" class="thumbnail">
-			<img src="/images/peeps/startline-snow.jpg" class="thumbnail img-rounded">
-			<img src="/images/peeps/people-green-hats.jpg" class="thumbnail img-rounded" width="250">
+		<div class="col-md-4 text-center" id="images-right">
+			<p class="lead text-center">
+				<a class="btn btn-primary btn-lg" href="http://www.facebook.com/pages/Mini-Cassia-Turkey-Trot/109343622455193"><i class="icon-facebook-sign icon-large"></i> Follow us on Facebook</a>
+			</p>
+			<img src="/images/race/01.jpg" class="img-circle img-thumbnail">
+			<img src="/images/race/13.jpg" class="img-circle img-thumbnail">
 		</div>
 	</div>
 {/main}

@@ -2,7 +2,7 @@
 
 {<main}
 
-	{>images image1="turkey-hug" image2="people-bleachers" image3="people-green-hats" image4="startline-snow" image5="people-bleachers" image6="stretching" /}
+	{>images image1="15" image2="05" image3="13" image4="06" image5="12" image6="07" /}
 
 	<div class="row">
 
@@ -11,7 +11,7 @@
 
 			<div class="panel-body">
 
-                <p class="lead">Please visit our 2012 sponsors listed below:</p>
+                <p class="lead">Please visit our 2013 sponsors listed below:</p>
 
 				<div class="well">
 					<h4>The Mini-Cassia Turkey Trot is presented by</h4>

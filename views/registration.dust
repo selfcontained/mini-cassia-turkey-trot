@@ -2,7 +2,7 @@
 
 {<main}
 
-	{>images image1="people-running" image2="people-smiling" image3="people-talking" image4="startline-snow" image5="turkey-hug" image6="stretching" /}
+	{>images image1="14" image2="15" image3="01" image4="02" image5="03" image6="04" /}
 
 	<div class="row">
 
@@ -20,25 +20,44 @@
 					<li><a href="https://www.raceit.com/Register/?event=22861">Register Online</a></li>
 					<li><a href="/2013-turkey-trot-registration.pdf">Download Mail-In Form</a></li>
 				</ul>
+
 				<hr>
 
 				<h3>Normal Registration</h3>
 
-				<p><em>November 3rd - November 20th</em></p>
+				<div class="row">
 
-				<p><strong>REGISTRATION on Nov. 20 ENDS AT 5:00 PM</strong></p>
+					<div class="col-md-8">
 
-				<ul>
-					<li>Walk in to Hurst Chiropractic Center</li>
-					<li><a href="https://www.raceit.com/Register/?event=22861">Register Online Here</a></li>
-					<li><a href="/2013-turkey-trot-registration.pdf">Download Mail-In Form</a></li>
-				</ul>
+						<p><em>November 3rd - November 26th</em></p>
+
+						<p class="text-danger"><strong>MAIL-IN REGISTRATIONS MUST BE POSTMARKED BY NOVEMBER 2nd!  Mail-in registrations postmarked after this date will NOT be accepted.</strong></p>
+
+						<p><strong>REGISTRATION on Nov. 26 ENDS AT 5:00 PM</strong></p>
+
+						<ul>
+							<li>Walk in to Hurst Chiropractic Center</li>
+							<li><a href="https://www.raceit.com/Register/?event=22861">Register Online Here</a></li>
+							<li><a href="/2013-turkey-trot-registration.pdf">Download Mail-In Form</a></li>
+						</ul>
+
+					</div>
+
+					<div class="col-md-4 well">
+						<h4>Hurst Chiropractic Clinic</h4>
+						1246 Oakley Avenue<br>
+						Burley, ID 83318<br>
+						208-678-8184<br>
+						<em>office hours are varied so call before going in</em>
+					</div>
+
+				</div>
 
 				<hr>
 
 				<h3>Race Day Registration</h3>
 
-				<p>*November 22nd</p>
+				<p>*November 28nd</p>
 
 				<ul>
 					<li>West Minico Middle School - 8am</li>
@@ -47,6 +66,8 @@
 				<hr>
 
 				<h3>Mail-In Form</h3>
+
+				<p class="text-danger"><strong>MAIL-IN REGISTRATIONS MUST BE POSTMARKED BY NOVEMBER 2nd!  Mail-in registrations postmarked after this date will NOT be accepted.</strong></p>
 
 				<p>If you prefer to mail in your registration instead of <a href="https://www.raceit.com/Register/?event=22861">registering online</a>, <a href="/2013-turkey-trot-registration.pdf">download this form</a>, fill it out, and please mail it to:</p>
 
