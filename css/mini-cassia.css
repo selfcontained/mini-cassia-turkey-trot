@@ -13,9 +13,19 @@ body {
 	padding-left: 0px;
 }
 
-.jumbotron {
+.home-main {
+	background: transparent;
 	position: relative;
-	background: url('/images/cassia-courthouse-50.jpg') no-repeat top left;
+}
+
+.home-main .main-logo {
+	width: 100%;
+	max-width: 600px;
+	margin: 5px 0px 25px 0px;
+}
+
+.home-main .img-thumbnail {
+	margin-bottom: 25px;
 }
 
 #images-right {
