@@ -7,7 +7,7 @@
 		</div>
 
 		<div class="col-md-4 well text-center">
-			<img src="/images/race/09.jpg" class="img-circle img-thumbnail">
+			<img src="/images/race/09.jpg" class="img-circle">
 
 			<p class="text-center">
 				<a class="btn btn-lg btn-success" href="/registration.html">Register Now &raquo;</a>
@@ -33,8 +33,8 @@
 			<p class="lead text-center">
 				<a class="btn btn-primary btn-lg" href="http://www.facebook.com/pages/Mini-Cassia-Turkey-Trot/109343622455193"><i class="icon-facebook-sign icon-large"></i> Follow us on Facebook</a>
 			</p>
-			<img src="/images/race/01.jpg" class="img-circle img-thumbnail">
-			<img src="/images/race/13.jpg" class="img-circle img-thumbnail">
+			<img src="/images/race/01.jpg" class="img-circle">
+			<img src="/images/race/13.jpg" class="img-circle">
 		</div>
 	</div>
 {/main}
